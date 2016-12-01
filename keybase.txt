@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/facelessman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://propwnadmin.github.io
+  * I am facelessman (https://keybase.io/facelessman) on keybase.
+  * I have a public key with fingerprint C5D3 DF71 43AD 4688 BF32  42DB 2671 309D 8028 D717
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010179fa315b17844ba669340b979a8a280b58c7018e8ce8325090847f8cf78544b80a",
+            "fingerprint": "c5d3df7143ad4688bf3242db2671309d8028d717",
+            "host": "keybase.io",
+            "key_id": "2671309d8028d717",
+            "kid": "010179fa315b17844ba669340b979a8a280b58c7018e8ce8325090847f8cf78544b80a",
+            "uid": "6a5a4e565bf6edb7be883da1bf2ad019",
+            "username": "facelessman"
+        },
+        "service": {
+            "hostname": "propwnadmin.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1480624267,
+    "expire_in": 157680000,
+    "prev": "75d953ad77f0302f435d7a896154a8f6196b24e2e9526613bd3c5cceca02550a",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkmtMHFUUxxdQZGnRQoNIeTqh2PLqvOfO1ibVYAm0ixFYhEpZZubeWUbY2WVn
+eIloG0MDISQIoS1YqFKlFWiJEI200AfQUKQ2thKwmsbWDUZa6xefNJQ6i/WbH71f
+bu65///vnnPuaQ0JMAX5JVbg3fu3LET4zS6JpoKdjW11mOiCtZilDitDaxsqh0jT
+7WUKxCwYTuAEx8sCRTAiwQGaFgWW5SkaF3mOF4BAAlxkgMThBEBAQoAiGZzHAc3J
+QJI5wBgGgAtYCiYrqgN53B5F1Q2sxEAKyhxBUwKkWQBEmSJpEookyxEUzkOAkwBy
+BGcYS12az2EkJwoaSlNcRsw42NfS+w/9/5x35RqOFRiBRgzLiDKLoMiJCAAKCoQo
+kwLECd4n1JBHFZzIUMuChMqRpjkFFatPwYyLKkVCvt76inkkcntc7mpVgE5FTXMo
+emml+E9tRlx3Sa5yQ1Kq627N4kPotW6fpxqJ9kc0u6io0Oip4ahCHk1xqZiFMJSS
+rvjwBA1w1mgpy6VgqMateJBd8SkYjgW4sXzvIFRlMDkG8ozxDRwn4xROyjTFQE4A
+PEswtABkluBZkaQRiXiGZFmCEiElMZKEJAEnGWatRxqqUF0G3KDqgsNgaopDFfRK
+D8Lqg5v8ox8z+QWZAh/3942bKdi84d8ZNH/51Oo2y1j7L8MNhc++Ezpz802tol78
+LTloxvYVyq67evbpnFNDP0dW5fJm9e5U5k7nwydb92yZjv3VTLbk4Fl9NpX4aNV+
+FV7ya97eE/fnX63HtYJP+pciJ09YX/L6BdX3wrezHDdHuUOnI8Sa0fnl1EPWz1LR
+2O11n798v9uRUPbBVHDYvddtAwP9Mzat50jXPmt6Y6Q9FG9Pm+vIr04Piynqnc/r
+ih4soWc+PPwwKOzgXanv91l534PFqMGoTHBD2N11Zr/j02MO78Ab40+IRQWWhW/M
+R8wrRw/Pyp1bm5NKRr6+tT5isXuCHCr644Abuo++uPH7L7I9SckJg2MpAQfXh4VP
+77h+7nybKXVzc8voiVlbzo+bfnhrsAPG7zp5q+lG6MfzSc9ffi4+tu+FhrYzI9cy
+T18fx4ut1zInlvPlV6wRkdz2PMKRm1h8bm7pQX+LaWNvLaHfC79U67C1l1zOnixC
+/rve/27VMq8EEpkF1g7veZC753hnw3s/MdXLKwkpiwOnegcK81+118d67ziTA0V6
+8iLBN2bExVxc/XYkXbmvFJ69Et7ZMVex4s07mRE8vKPw3SvwjjUBr0ht7A7bOyHj
+TU1bx9fFO0HWwoaR6JCxvUNR5gnva9ueKe45toDXbDqQm5GU3nMhI6TtNqQuTCWm
+joZOD8fs1osD4jqJwqTNnpi/AQ==
+=psU6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/facelessman
+
+==================================================================
